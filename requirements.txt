@@ -1,0 +1,6 @@
+streamlit
+langchain-core
+langchain-copmmunity
+langchain-text-splinters
+pypddf
+faiss-cpu
